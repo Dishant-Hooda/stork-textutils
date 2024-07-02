@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-2z&bkug-c)3%^656-72lnm=v-u0xr&guzqzm!8=(975#+**-&&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['stork-textutils.onrender.com']
 
 
 # Application definition
